@@ -1,6 +1,6 @@
 # Friends Memory Game
 
-##📝 Descrição
+## 📝 Descrição
 
 Este é um Jogo da Memória inspirado na icônica série de TV Friends. O objetivo do jogo é encontrar todos os pares de cartas com personagens, símbolos e momentos memoráveis da série.
 

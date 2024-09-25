@@ -18,7 +18,7 @@ O jogo foi desenvolvido utilizando HTML, CSS e JavaScript, proporcionando uma ex
 - HTML5: Estruturação do jogo.
 - CSS3: Estilização e responsividade.
 - JavaScript: Lógica do jogo e controle das interações com o usuário.
-- 
+  
 ## 🎮 Como Jogar
 - Abra o jogo em seu navegador.
 - Clique em duas cartas para virá-las.
